@@ -1,0 +1,5 @@
+from src.pipelines.pipelines import run_research_pipeline
+
+topic = "The impact of AI on the Berlin job market in 2026"
+
+run_research_pipeline(topic)
